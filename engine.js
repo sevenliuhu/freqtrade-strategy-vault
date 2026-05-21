@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com */
 /**
  * HOMO Freqtrade Strategy Vault — 交易策略加密引擎
  * 复用 Skill Vault 的 vault.js 加密逻辑
